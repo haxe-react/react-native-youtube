@@ -1,0 +1,18 @@
+{
+    "name": "react-native-youtube",
+    "license": "MIT",
+    "tags": [
+      "react",
+      "native",
+      "youtube"
+    ],
+    "classPath": "src",
+    "contributors": [
+      "zabojad"
+    ],
+    "releasenote": "Initial release",
+    "version": "0.1.0",
+    "url": "https://github.com/haxe-react/react-native-youtube",
+    "dependencies": {
+    }
+  }
